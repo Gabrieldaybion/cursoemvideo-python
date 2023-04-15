@@ -1,6 +1,6 @@
-import pyttsx3
+""" import pyttsx3
 import speech_recognition as sr
-import webbrowser
+import webbrowser """
 from time import sleep as temp
 import random
 def audio_fala(msg):

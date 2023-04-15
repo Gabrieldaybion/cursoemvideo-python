@@ -1,6 +1,7 @@
-import pyttsx3
-import speech_recognition as sr
-import webbrowser
+#import pyttsx3
+# import speech_recognition as sr
+#import webbrowser
+
 from time import sleep as temp
 import random
 from pyfirmata import Arduino, util

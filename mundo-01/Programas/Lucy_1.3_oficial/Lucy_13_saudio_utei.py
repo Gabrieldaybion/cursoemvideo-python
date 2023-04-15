@@ -1,8 +1,8 @@
 def  Lucy_sem_audio():
     print('Iniciando lucy 1.3')
-    import pyttsx3
+    """ import pyttsx3
     import speech_recognition as sr
-    import webbrowser
+    import webbrowser """
     from time import sleep as temp
     import random
     def audio_fala(msg):

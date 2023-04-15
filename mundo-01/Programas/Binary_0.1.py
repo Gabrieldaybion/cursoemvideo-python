@@ -1,5 +1,5 @@
 import Binary_uteis
-from pyfirmata import Arduino,util
+
 from random import choice
 from time import sleep
 la=12 #Led amarelo.Serve para avisar quando vai ser a proxima letra.
